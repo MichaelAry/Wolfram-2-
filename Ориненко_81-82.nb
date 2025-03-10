@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[     34128,        820]
-NotebookOptionsPosition[     31477,        771]
-NotebookOutlinePosition[     31913,        788]
-CellTagsIndexPosition[     31870,        785]
+NotebookDataLength[     34235,        820]
+NotebookOptionsPosition[     31480,        770]
+NotebookOutlinePosition[     31914,        787]
+CellTagsIndexPosition[     31871,        784]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -619,55 +619,54 @@ Cell[TextData[{
      Editable->False,
      SelectWithContents->True,
      Selectable->False,
-     StripWrapperBoxes->True]}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
+     StripWrapperBoxes->True]}], TraditionalForm]],ExpressionUUID->
   "01096e00-233b-4ab3-9248-e12824b2f727"],
- ".\n\:0422\:043e\:0433\:0434\:0430 ",
+ "."
+}], "ExampleText",
+ CellChangeTimes->{{3.9506176438737173`*^9, 3.9506177022621403`*^9}, {
+  3.9506177424864626`*^9, 3.9506177832031317`*^9}, {3.9506183747384987`*^9, 
+  3.9506183759963813`*^9}},ExpressionUUID->"af9720d8-9935-450c-bc9b-\
+3740395ef957"],
+
+Cell[TextData[{
+ "\:0422\:043e\:0433\:0434\:0430 ",
  Cell[BoxData[
   FormBox[
    RowBox[{
     RowBox[{"\[ContourIntegral]", " ", 
      RowBox[{
       RowBox[{"f", "(", "z", ")"}], "d", " ", "z"}]}], " ", "=", "0"}], 
-   TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "afa25e09-ee25-4913-80b0-af01fb11311e"],
+   TraditionalForm]],ExpressionUUID->"0fa519ef-73ae-4bef-a16d-c2cea57d4148"],
  " \:043f\:043e \:043b\:044e\:0431\:043e\:0439 \:0437\:0430\:043c\:043a\:043d\
 \:0443\:0442\:043e\:0439 \:0441\:043f\:0440\:044f\:043c\:043b\:044f\:0435\
 \:043c\:043e\:0439 \:043a\:0440\:0438\:0432\:043e\:0439 ",
  Cell[BoxData[
   FormBox[
    RowBox[{"\[ScriptCapitalL]", "\[Subset]", "\[ScriptCapitalD]"}], 
-   TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "58a5397a-cc9c-4ec5-8f1b-b77670fab672"],
+   TraditionalForm]],ExpressionUUID->"b62e2b31-0e1d-488f-b933-b2660180bd7f"],
  ". \:041d\:043e ",
  Cell[BoxData[
   FormBox[
-   RowBox[{"f", "(", "z", ")"}], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "e7818dad-f94f-43e8-952e-939086b7ed05"],
+   RowBox[{"f", "(", "z", ")"}], TraditionalForm]],ExpressionUUID->
+  "55948f7f-16c8-4cbb-93d9-83c9b4b945fa"],
  " \:043d\:0435 \:044f\:0432\:043b\:044f\:0435\:0442\:0441\:044f \:0430\:043d\
 \:0430\:043b\:043e\:0433\:0438\:0447\:043d\:043e\:0439 \:0432 ",
  Cell[BoxData[
-  FormBox["\[ScriptCapitalD]", TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "9557e6df-b7f4-40db-beac-396845ced468"],
+  FormBox["\[ScriptCapitalD]", TraditionalForm]],ExpressionUUID->
+  "2a5bc91f-694b-49ae-93a1-61052075cc24"],
  ", \:0438\:0431\:043e \:043e\:043d\:0430 \:043d\:0435 \:044f\:0432\:043b\
 \:044f\:0435\:0442\:0441\:044f \:0442\:043e\:0436\:0435 \:043d\:0435\:043f\
 \:0440\:0435\:0440\:044b\:0432\:043d\:043e\:0439 (\:0432 \:0442\:043e\:0447\
 \:043a\:0435 ",
  Cell[BoxData[
   FormBox[
-   SubscriptBox["z", "0"], TraditionalForm]],
-  FormatType->TraditionalForm,ExpressionUUID->
-  "3032d9c9-a27e-45cb-b47a-a813bede4611"],
+   SubscriptBox["z", "0"], TraditionalForm]],ExpressionUUID->
+  "e05e60dc-c555-405f-9e8b-67d9e234c012"],
  ")."
-}], "ExampleText",
- CellChangeTimes->{{3.9506176438737173`*^9, 3.9506177022621403`*^9}, {
-  3.9506177424864626`*^9, 
-  3.9506177832031317`*^9}},ExpressionUUID->"af9720d8-9935-450c-bc9b-\
-3740395ef957"]
+}], "ExampleSolution",
+ CellChangeTimes->{
+  3.950618381336751*^9},ExpressionUUID->"682d0b8b-8316-4ccf-991e-\
+274865a52258"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -769,8 +768,8 @@ Cell[TextData[{
 06b6035f3fdc"]
 }, Open  ]]
 },
-WindowSize->{1440, 747.75},
-WindowMargins->{{-6, Automatic}, {Automatic, -6}},
+WindowSize->{1428, 741.75},
+WindowMargins->{{0, Automatic}, {Automatic, 0}},
 Magnification:>0.7 Inherited,
 FrontEndVersion->"13.3 for Microsoft Windows (64-bit) (July 24, 2023)",
 StyleDefinitions->"Style_math+.nb",
@@ -816,11 +815,12 @@ Cell[22023, 535, 80, 0, 14, "TheorProofEnd",ExpressionUUID->"16d686dc-016c-4de2-
 Cell[22106, 537, 1692, 29, 29, "Text",ExpressionUUID->"93955326-26b5-4424-ab5f-d9bfbdf314a0"]
 }, Open  ]],
 Cell[23813, 569, 169, 3, 23, "ExampleTitle",ExpressionUUID->"dd8e7906-0163-4340-892f-638993853d19"],
-Cell[23985, 574, 3614, 95, 55, "ExampleText",ExpressionUUID->"af9720d8-9935-450c-bc9b-3740395ef957"]
+Cell[23985, 574, 2003, 54, 38, "ExampleText",ExpressionUUID->"af9720d8-9935-450c-bc9b-3740395ef957"],
+Cell[25991, 630, 1611, 38, 16, "ExampleSolution",ExpressionUUID->"682d0b8b-8316-4ccf-991e-274865a52258"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[27636, 674, 566, 10, 23, "TheoremTitle",ExpressionUUID->"fe4d856d-11a7-4bf3-bbc3-028a3d94765c"],
-Cell[28205, 686, 3256, 82, 70, "TheoremText",ExpressionUUID->"57b4bb7b-ef80-40f0-b0fc-06b6035f3fdc"]
+Cell[27639, 673, 566, 10, 23, "TheoremTitle",ExpressionUUID->"fe4d856d-11a7-4bf3-bbc3-028a3d94765c"],
+Cell[28208, 685, 3256, 82, 70, "TheoremText",ExpressionUUID->"57b4bb7b-ef80-40f0-b0fc-06b6035f3fdc"]
 }, Open  ]]
 }
 ]
